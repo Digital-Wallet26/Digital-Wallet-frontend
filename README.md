@@ -1,21 +1,31 @@
-<<<<<<< HEAD
-# React + Vite
+# 💳 SmartWallet - Digital Financial Services Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SmartWallet** is a professional digital financial platform designed to facilitate electronic payments, wallet management, and financial transactions specifically tailored for the context of Aleppo, Syria.
 
-Currently, two official plugins are available:
+## 🚀 Project Overview
+The platform serves as a comprehensive E-Wallet system that connects three main entities:
+- **Customers:** To manage funds, transfer money, and pay bills.
+- **Merchants:** To receive payments via a secure API gateway.
+- **Administrators:** To monitor transactions, review KYC verifications, and manage system fees.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠 Tech Stack
+- **Frontend:** React.js + Vite
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **State Management:** React Context API / Hooks
+- **HTTP Client:** Axios
+- **Backend (Planned):** Laravel (PHP)
 
-## React Compiler
+## 👥 Project Team
+- **Moayad Al-Asi** (Team Leader & Frontend Developer)
+- **Delir Al-Maamo** (Frontend Developer)
+- **Hussein Sheikho** (Frontend Developer)
+- **Mahmoud Ghazal** (Backend Developer)
+- **Moayad Al-Asi** (Backend Developer)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Installation & Setup
+To run this project locally, follow these steps:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Digital-Wallet-frontend
-A frontend repository for Digital Wallet in Syria 
->>>>>>> c6e270e2abe0ec27ad3a8ba8ca8e6cf7dc8b806a
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Digital-Wallet26/Digital-Wallet-frontend.git
