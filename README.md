@@ -17,11 +17,11 @@ The platform serves as a comprehensive E-Wallet system that connects three main 
 - **Backend (Planned):** Laravel (PHP)
 
 ## 👥 Project Team
-- **Moayad Al-Asi** (Team Leader & Frontend Developer)
+- **Moayad Al-Assi** (Frontend Developer)
 - **Delir Al-Maamo** (Frontend Developer)
 - **Hussein Sheikho** (Frontend Developer)
 - **Mahmoud Ghazal** (Backend Developer)
-- **Moayad Al-Asi** (Backend Developer)
+- **ahmad albayen** (Backend Developer)
 
 ## 📦 Installation & Setup
 To run this project locally, follow these steps:
