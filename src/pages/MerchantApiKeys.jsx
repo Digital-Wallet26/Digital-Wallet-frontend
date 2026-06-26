@@ -10,7 +10,7 @@ import {
 const dummyMerchant = {
   business_name: 'متجر دلير للإلكترونيات',
   client_id: 'cli_delir_2025_prod_x7k9m',
-  client_secret_hash: 'sk_live_aB3xK9mP2qR7vL4nW8sY1cE6fH0jT5uD',
+  client_secret_hash: 'demo_secret_aB3xK9mP2qR7vL4nW8sY1cE6fH0jT5uD',
   status: 'active',
   webhook_url: 'https://mystore.com/webhooks/smartwallet',
 };
