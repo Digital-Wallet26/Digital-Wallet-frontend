@@ -22,7 +22,7 @@ The platform serves as a comprehensive E-Wallet system that connects three main 
 ## 👥 Project Team
 
 - **ahmad albayen** (Backend Developer)
--**Moayad Al-Assi** (Frontend Developer)
+- **Moayad Al-Assi** (Frontend Developer)
 - **Delir Al-Maamo** (Frontend Developer)
 - **Hussein cheikho** (Frontend Developer)
 - **Mahmoud Ghazal** (Backend Developer)
