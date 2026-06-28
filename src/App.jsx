@@ -9,7 +9,7 @@ import WalletPage from './pages/WalletPage';
 import TransactionHistory from './pages/TransactionHistory';
 import BillPaymentPage from './pages/BillPaymentPage';
 import MerchantDashboard from './pages/MerchantDashboard';
-// import MerchantApiKeys from './pages/MerchantApiKeys';
+import MerchantApiKeys from './pages/MerchantApiKeys';
 import IncomingPaymentsLog from './pages/IncomingPaymentsLog';
 import WebhookSettings from './pages/WebhookSettings';
 
@@ -31,7 +31,7 @@ function App() {
           <Route path="/profile" element={<ProfilePage />} />
           <Route path="/transacions" element={<TransactionHistory/>} />
           <Route path="/merchant" element={<MerchantDashboard/>} />
-          {/* <Route path="/merchant/api-keys" element={<MerchantApiKeys/>} /> */}
+          <Route path="/merchant/api-keys" element={<MerchantApiKeys/>} />
           <Route path="merchant/payments" element={<IncomingPaymentsLog/>} />
           <Route path="merchant/webhook" element={<WebhookSettings/>} />
         </Route>
